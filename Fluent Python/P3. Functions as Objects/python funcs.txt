@@ -1,0 +1,81 @@
+The "map" function: returns an iterable where each item is the result of the application
+of the first argument (a function) to succesive elements of the second argument (an
+iterable)
+
+A function that takes a function as argument or returns a function as the result is a
+higher-order function. One example is "map", "sorted". 
+
+"sorted(list, key = ...)": sort the list in the function indicated in the "key" argument. 
+Any one-argument function can be used as the key.
+
+In the functional programming paradigm, some of the best known higher-order func‐
+tions are map, filter, reduce, and apply.
+
+In Python 3, map and filter return generators—a form of iterator—so their direct
+substitute is now a generator expression. 
+
+To determine whether an object is callable, use the callable() built-in function.
+
+
+module clip 
+module functools (reduce, )
+module operator (mul, add, itemgetter, attrgetter)
+module collections 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

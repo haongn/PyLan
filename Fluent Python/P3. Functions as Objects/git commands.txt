@@ -1,0 +1,34 @@
+git init 
+git status 
+git add . 
+git status 
+git commit -m 'First commit'
+git log 
+git remote add origion https://.......
+
+# commit moi 
+git add . 
+git status 
+git commit -m ...........
+git push 
+
+# dong bo file 
+git pull 
+
+
+# resolve conflict
+git add .
+git commit -m ....
+git push 
+=> xuat hien error 
+=> resolve: 
+git pull 
+chon thay doi nao 
+git add . 
+git commit -m "Resolve conflict"
+git push 
+
+
+
+
+
